@@ -1,4 +1,4 @@
-## defination
+## Definition
 1. anonymous function
 ```function (x) { ... }```
 2. ```arguments``` point to the parameter
@@ -20,3 +20,7 @@ foo(1);
 // b = undefined
 // Array []
 ```
+
+## Scope
+1. global object ```window```
+2. local scope, use ```let``` instead of ```var```
