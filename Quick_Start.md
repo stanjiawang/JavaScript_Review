@@ -31,6 +31,7 @@ var A = {
 }
 ```
 **Note**: Cannot use ```A.high-school```, use ```A['high-school']``` ```// 'P A High'```
+
 2. ```hasOwnProperty()``` to decide whether the this prop is owned by the object itself.
 
 ## Condition
