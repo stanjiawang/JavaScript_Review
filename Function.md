@@ -24,3 +24,12 @@ foo(1);
 ## Scope
 1. global object ```window```
 2. local scope, use ```let``` instead of ```var```
+3. naming space, bind variables and function to a unique global variable
+4. constants， ```const```
+
+## Destructuring assignment
+
+## Object method
+1. ```this``` point to current object
+2. apply ```function.apply(object, [array])``` // ```this``` bind to first parameter ```object```, ```array``` is function's parameter
+
