@@ -64,7 +64,7 @@ arr.sort(function (x, y) {
 console.log(arr); // [1, 2, 10, 20]
 ```
 
-## closure
+## Closure
 1. Returning Functions, return function instead of value, could get the value of this function only when you called it.
 2. private variable
 ```
@@ -81,10 +81,10 @@ function create_counter(initial) {
 }
 ```
 
-## arrow function
+## Arrow function
 ```this``` always point to lexical scope
 
-## generator
+## Generator
 ```
 function* foo(x) {
     yield x + 1;
