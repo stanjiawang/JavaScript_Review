@@ -13,7 +13,7 @@ typeof {}; // 'object'
 ```
 ```null``` is object, ```Array``` is object
 
-## wrapper object
+## Wrapper Object
 Note:
 1. Do ## NOT ## use ```new Number()、new Boolean()、new String()``` to create wrapper object
 2. Use ```String``` to convert any type to string, or use ```toString()``` for a object
