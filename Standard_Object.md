@@ -31,3 +31,22 @@ d; // Fri Jun 19 2015 20:15:30 GMT-0700 (Pacific Daylight Time)
 
 ## RegExp
 https://www.regextester.com/
+```
+var re1 = /ABC\-001/
+var re2 = new RegExp('ABC\\-001');
+```
+```
+re.test('mock string'); // return true or false
+```
+1. Group: ```exec()```
+2. Greedy match: ```?```
+3. Global search: ```g```
+
+## JSON (JavaScript Object Notation)
+Data type:
+ * number
+ * boolean
+ * string
+ * null
+ * array -- []
+ * object -- { ... }
