@@ -23,3 +23,11 @@ Note:
 6. Use ```myVar === null```
 
 ## Date
+Create a date object:
+```
+var d = new Date(2015, 5, 19, 20, 15, 30, 123);
+d; // Fri Jun 19 2015 20:15:30 GMT-0700 (Pacific Daylight Time)
+```
+
+## RegExp
+https://www.regextester.com/
