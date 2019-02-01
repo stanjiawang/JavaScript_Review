@@ -50,3 +50,9 @@ Data type:
  * null
  * array -- []
  * object -- { ... }
+
+Must use ``` " " ```
+
+```JSON.stringfy(object)``` convert object to string with JSON format
+```JSON.parse(JSON)``` convert JSON format string to object
+
