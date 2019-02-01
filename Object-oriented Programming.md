@@ -1,4 +1,4 @@
-use ```Object.create()``` instead of ```obj._proto_
+use ```Object.create()``` instead of ```obj._proto_```
 
 Array object
 ```arr ----> Array.prototype ----> Object.prototype ----> null```
