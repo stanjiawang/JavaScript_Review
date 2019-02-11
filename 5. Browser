@@ -1,0 +1,4 @@
+## Browser object
+```window``` is a global varible
+property: ```innerWidth```,```innerheight```
+```outerWidth```, ```outerHeight```
